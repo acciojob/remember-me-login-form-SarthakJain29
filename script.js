@@ -1,6 +1,6 @@
 const user = document.getElementById("username");
 const pass = document.getElementById("password");
-const remember = document.getElementById("remember");
+const remember = document.getElementById("checkbox");
 const submit = document.getElementById("submit");
 const exist = document.getElementById("existing");
 
